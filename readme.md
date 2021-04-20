@@ -30,7 +30,7 @@
 ### [Invite My Discord Bot](https://bit.ly/3tF4azp)
 
 
-- Infomation Of My Discord Bot ~ Nobel
+- [Infomation Of My Discord Bot Nobel](https://github.com/regales-0428/Nobel)
 
 - [Nobel On Top.gg](https://top.gg/bot/820939172491427840)
 
