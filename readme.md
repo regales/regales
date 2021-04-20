@@ -1,6 +1,6 @@
 ### 👋 Hi, I Go By Regales
 - 👀 I’m currently a student
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on my Discord bot
 
 ### Languages and Tools:
