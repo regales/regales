@@ -39,9 +39,14 @@
 
 [![Discord Bots](https://top.gg/api/widget/owner/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)     [![Discord Bots](https://top.gg/api/widget/status/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)      [![Discord Bots](https://top.gg/api/widget/upvotes/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)
 
-**© [Regales](https://github.com/regales-0428)**
+-------------------------------------------------------
+
+
 
 ![GitHub metrics](https://metrics.lecoq.io/regales)
+
+
+**© [Regales](https://github.com/regales-0428)**
 
 <p align="center">
 <a href="https://discord.gg/xCCpfth">
