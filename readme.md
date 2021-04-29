@@ -15,6 +15,9 @@
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
+-------------------------------------------------------
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regales&show_icons=true" alt="Lmon" /></p>
+
 
 
 -------------------------------------------------------
@@ -37,6 +40,8 @@
 [![Discord Bots](https://top.gg/api/widget/owner/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)     [![Discord Bots](https://top.gg/api/widget/status/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)      [![Discord Bots](https://top.gg/api/widget/upvotes/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)
 
 **© [Regales](https://github.com/regales-0428)**
+
+![GitHub metrics](https://metrics.lecoq.io/regales)
 
 <p align="center">
 <a href="https://discord.gg/xCCpfth">
