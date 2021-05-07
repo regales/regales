@@ -17,12 +17,7 @@
 
 -------------------------------------------------------
 ### Github Stats
-![regales Stats](https://github-readme-stats.vercel.app/api?username=regales&count_private=true&sow_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
-
-
-
+![regales Stats](https://github-readme-stats.vercel.app/api?username=regales&count_private=true&sow_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
 
 -------------------------------------------------------
 ### Reach me here 
