@@ -14,6 +14,8 @@
 <img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" /> 
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
+
 -------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
 
