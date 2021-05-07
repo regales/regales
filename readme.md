@@ -15,7 +15,7 @@
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
-### Mostly Used
+### Mostly Used:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
 
