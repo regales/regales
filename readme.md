@@ -16,7 +16,11 @@
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
 -------------------------------------------------------
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regales&show_icons=true" alt="Lmon" /></p>
+### Github Stats
+![regales Stats](https://github-readme-stats.vercel.app/api?username=regales&count_private=true&sow_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
+
 
 
 
