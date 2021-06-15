@@ -53,5 +53,5 @@
 
 <p align="center">
 <a href="https://discord.gg/xCCpfth">
-    <img src="https://discord.c99.nl/widget/theme-4/287977955240706060.png">
+    <img src="https://discord.c99.nl/widget/theme-4/623553796160618517.png">
   </a>
