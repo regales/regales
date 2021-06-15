@@ -29,6 +29,10 @@
 [Instagram](https://www.instagram.com/nobel.support/)
 
 [Discord](https://discord.gg/Zv2haAtKyc)
+<p align="left">
+<a href="https://discord.gg/xCCpfth">
+    <img src="https://discord.c99.nl/widget/theme-2/623553796160618517.png">
+  </a>
 
 
 -------------------------------------------------------
@@ -48,12 +52,5 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/regales)
 
-
-
-
-<p align="center">
-<a href="https://discord.gg/xCCpfth">
-    <img src="https://discord.c99.nl/widget/theme-2/623553796160618517.png">
-  </a>
 
 **© [Regales](https://github.com/regales-0428)**
