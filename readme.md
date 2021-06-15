@@ -49,9 +49,11 @@
 ![GitHub metrics](https://metrics.lecoq.io/regales)
 
 
-**© [Regales](https://github.com/regales-0428)**
+
 
 <p align="center">
 <a href="https://discord.gg/xCCpfth">
-    <img src="https://discord.c99.nl/widget/theme-4/623553796160618517.png">
+    <img src="https://discord.c99.nl/widget/theme-2/623553796160618517.png">
   </a>
+
+**© [Regales](https://github.com/regales-0428)**
