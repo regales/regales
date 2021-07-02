@@ -31,9 +31,6 @@
 [Discord](https://discord.gg/Zv2haAtKyc)
 <p align="left">
 <a href="https://discord.gg/xCCpfth">
-    <img src="https://discord.c99.nl/widget/theme-2/623553796160618517.png">
-  </a>
-
 
 -------------------------------------------------------
 
