@@ -26,7 +26,7 @@
 -------------------------------------------------------
 ### Reach me here 
 
-[Instagram](https://www.instagram.com/nobel.support/)
+
 
 [Discord](https://discord.gg/Zv2haAtKyc)
 <p align="left">
