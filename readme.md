@@ -22,7 +22,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=regales&count_private=true&sow_icons=true&theme=radical" align="center" /></div>  
 
 -------------------------------------------------------
-### Reach Me Here ~
+### Reach Me Here 
 <div align="center">
 
 
@@ -47,9 +47,7 @@
 
 -------------------------------------------------------
 
-
-
-![GitHub metrics](https://metrics.lecoq.io/regales)
+<div align="center"><img src="https://metrics.lecoq.io/regales" align="center" /></div>  
 
 
 **© [Regales](https://github.com/regales-0428)**
