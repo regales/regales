@@ -13,14 +13,14 @@
 
 ### Mostly Used:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical" align="center" /></div>  
 
 -------------------------------------------------------
 ### Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=regales&count_private=true&sow_icons=true&theme=radical" align="center" /></div>  
 
 -------------------------------------------------------
-### Reach me here 
+### Reach Me Here ~
 <div align="center">
 
 
