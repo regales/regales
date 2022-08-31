@@ -1,5 +1,5 @@
 <h2> Hi, I'm Regales! <img src="https://media1.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=ecf05e47ijf0w7wmpc7z3wl19cnsukcrhmzv1ysurrwgrrtk&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="https://media4.giphy.com/media/g78p2uk2tiCVzDgiAs/giphy.gif?cid=ecf05e47g9gvmorwlkde62g1w74pk1ne5i89s40vnbid4ls5&rid=giphy.gif&ct=s" width="230">
+<img align='right' src="https://media1.giphy.com/media/cNNEOwOQwWveFLxw6J/giphy.gif?cid=ecf05e47kiq3mkwz5wuzs6cw1dc0kr0t299ent0gxco84v3a&rid=giphy.gif&ct=s" width="230">
 <p><em>Undergraduate Computer Science Student at <a href="https://newinti.edu.my/">INTI International University & Colleges</a><img src="https://media4.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif?cid=ecf05e4701jwtfb8uhp983btm7pjvywbs709ir6pzpyxdu3e&rid=giphy.gif&ct=s" width="30"></br>
 </em></p>
 
