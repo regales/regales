@@ -1,5 +1,5 @@
 <h2> Hi, I'm Regales! <img src="https://media1.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=ecf05e47ijf0w7wmpc7z3wl19cnsukcrhmzv1ysurrwgrrtk&rid=giphy.gif&ct=s" width="50"></h2>
-<p><em>Freshman at <a href="https://newinti.edu.my/">INTI International University & Colleges</a><img src="https://media4.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif?cid=ecf05e4701jwtfb8uhp983btm7pjvywbs709ir6pzpyxdu3e&rid=giphy.gif&ct=s" width="30"></br>
+<p><em></a><img src="https://media4.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif?cid=ecf05e4701jwtfb8uhp983btm7pjvywbs709ir6pzpyxdu3e&rid=giphy.gif&ct=s" width="30"></br>
 </em></p>
 
 [![Twitter: reg_ales](https://img.shields.io/twitter/follow/reg_ales?style=social)](https://twitter.com/reg_ales)
