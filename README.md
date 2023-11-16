@@ -15,14 +15,14 @@ const ryan = {
   code: [Javascript, HTML, CSS, Python],
   tools: [Node, Visual Studio, Mongoose],
   interests: {
-                        sleeping: "4 hours a day",
-                        manga: "waiting for updates",
-                        studying: "forget 8am classes"
+                        sleeping: "less than 4 hours a day",
+                        majoring: "CPR E",
+                        attending: "Iowa State University"
                       },
- challenge: "Surviving Through University And Assignments"
+ challenge: "Making friends and overcoming social anxiety"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I hope to connect with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
