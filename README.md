@@ -12,14 +12,15 @@
 ```javascript
 const ryan = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [Node, Visual Studio, Mongoose],
-  interests: {
-                        sleeping: "less than 4 hours a day",
+  learning: [ C, Verilog, Python ],
+  tools: [ Notepad++, VSC, Cygwin, Cyclone IV FPGA ],
+  others: {
                         majoring: "CPR E",
                         attending: "Iowa State University"
+
                       },
- challenge: "Making friends and overcoming social anxiety"
+
+ challenge: "Making Meaningful Connections"
 }
 ```
 
