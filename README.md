@@ -12,15 +12,16 @@
 ```javascript
 const ryan = {
   pronouns: "he" | "him",
-  learning: [ C, Verilog, Python ],
-  tools: [ Notepad++, VSC, Cygwin, Cyclone IV FPGA ],
+  learning: [ Java, Python ],
+  tools: [ Notepad++, VSC, Cygwin, Eclipse, Cyclone IV FPGA ],
   others: {
                         majoring: "CPR E",
-                        attending: "Iowa State University"
+                        attending: "Iowa State University",
+                        qualifications: [ C, Verilog, Intel Quartus Prime, QuestaSim ]
 
                       },
 
- challenge: "Making Meaningful Connections"
+ challenge: "Trying To Do Better"
 }
 ```
 
